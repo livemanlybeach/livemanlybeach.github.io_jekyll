@@ -1,0 +1,16 @@
+# Site settings
+title: "LiveManlyBeach"
+subtitle: ""
+author: Alex
+email: LiveManlyBeach@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Manly Beach Photography & Video  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.livemanlybeach.com" # the base hostname & protocol for your site
+twitter_username: livemanlybeach
+github_username:  livemanlybeach
+
+# Build settings
+markdown: kramdown
+excerpt_separator: <!--more-->
+category_dir: category

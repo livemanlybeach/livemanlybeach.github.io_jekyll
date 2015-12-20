@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1 class="category">{{ page.title }}</h1>
+<ul class="posts">
+{% for post in site.categories[page.category] %}
+
+	<h2>
+		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+     <span class="post-meta"><div class="meta-item"><i class="fa fa-calendar"></i> {{ post.date | date: "%-d %B %Y" }} <i class="fa fa-user"></i><span class="vcard author"><span class="fn"> By {{ site.author }}</span> 
+        <i class="fa fa-hashtag"></i> 
+        {% for category in post.categories %}
+    		<a class="post-category" href="/category/{{category}}">{{category}}</a>
+ 		{% endfor %}
+ 		<BR>
+ 	{% if post.thumbnail %}
+ 	<img src="{{ post.thumbnail }}" height=300px width=600px>
+	{% endif %}
+	<BR><BR>
+{% endfor %}
+</ul>
