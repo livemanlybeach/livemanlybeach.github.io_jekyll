@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<h1 class="category">{{ page.title }}</h1>
-<ul class="posts">
+<h1 class="category">Category : {{ page.title }}</h1>
+<!--<ul class="posts">-->
 {% for post in site.categories[page.category] %}
 
 	<h2>
@@ -16,8 +16,13 @@ layout: default
  		{% endfor %}
  		<BR>
  	{% if post.thumbnail %}
- 	<img src="{{ post.thumbnail }}" height=300px width=600px>
+ 	<img src="{{ post.thumbnail }}" width=900px height=600px >
 	{% endif %}
+	<p>
+	<BR>
+	<a class="continue-reading" href="{{ post.url | prepend: site.baseurl }}"> Continue Reading</a>
 	<BR><BR>
+	</p>
+
 {% endfor %}
-</ul>
+<!--</ul>-->
