@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-If you like the photos you see on [LiveManlyBeach](http://www.livemanlybeach.com) please consider making a donation via paypal 
+If you like the photos and videos you see on [LiveManlyBeach](http://www.livemanlybeach.com) please consider making a donation via paypal 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
