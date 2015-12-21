@@ -2,7 +2,7 @@
 layout: post
 title:  "2:20pm - Surf Sesh @ South Steyne"
 date:   2015-12-21 14:00
-categories: ManlyBeach Surf Video
+categories: ManlyBeach Surf Video GoPro
 ---
 
 After succesfully getting up for the sunrise this morning I thought I tried something different this
