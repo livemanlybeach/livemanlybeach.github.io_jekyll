@@ -10,6 +10,6 @@ afternoon and get in the water to take some video. It was hard swimming around a
 I had fun and got some ok video, some shots I was pointing the wrong way and I was diving under the wave early so I missed people going past, I'll have to remember to work on that next time, but it's a good first effort.
 
 <div>
-<iframe width="900" height="506" src="https://www.youtube.com/embed/kUs-NEDA_mA?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">Manly Beach&nbsp;</iframe>
+<iframe style="box-shadow: 10px 10px 5px #888888;" width="900" height="506" src="https://www.youtube.com/embed/kUs-NEDA_mA?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">Manly Beach&nbsp;</iframe>
 </div>
 

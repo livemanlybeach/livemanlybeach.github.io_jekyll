@@ -8,7 +8,7 @@ thumbnail: /images/2015-04-22/2.jpg
 
 NSW was smashed by a huge storm this week with torrential rain and strong winds. I went down to the beach to take some photos and videos of the aftermath.
 <div>
-<iframe width="900" height="506" src="https://www.youtube.com/embed/DJya8p988J8?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">Manly Beach&nbsp;</iframe>
+<iframe style="box-shadow: 10px 10px 5px #888888;" width="900" height="506" src="https://www.youtube.com/embed/DJya8p988J8?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">Manly Beach&nbsp;</iframe>
 </div>
 <!--more-->
 
