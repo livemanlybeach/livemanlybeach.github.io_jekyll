@@ -11,11 +11,11 @@ prior to each service.
 
 <iframe style="box-shadow: 10px 10px 5px #888888;" width="900" height="506" src="https://www.youtube.com/embed/FRwjbj8fncE?wmode=opaque" frameborder="0" allowfullscreen="allowfullscreen">Manly Beach&nbsp;</iframe>
 
-Read more after the cut to see photos
+Some photos after the cut
 
 <!--more-->
 
-Three Wise Men on the lookout for the Baby Jesus
+Three Wise Men on the lookout
 
 ![](/images/camelsonthecorso/4.jpg)
 
