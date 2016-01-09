@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "St Matthews Christmas Eve Camel Parade on The Corso"
-date:   camelsonthecorso 14:30
+date:    2015-12-24 14:30
 categories: StMatthews Christmas Camels TheCorso ManlyBeach
 thumbnail: /images/camelsonthecorso/4.jpg
 ---
